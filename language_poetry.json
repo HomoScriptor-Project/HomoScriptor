@@ -1,0 +1,132 @@
+[
+  {
+    "instruction": "Which words rhyme with \"boat\"?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "note, wrote, vote, promote, coat, throat, float, goat."
+      },
+      {
+        "variant": "long",
+        "answer": "Here are some words that rhyme with \"boat\":\n- note\n- wrote\n- vote\n- promote\n- coat\n- throat\n- float\n- goat"
+      }
+    ]
+  },
+  {
+    "instruction": "give me three words that rhyme with 'dark'",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "mark, bark, shark"
+      },
+      {
+        "variant": "long",
+        "answer": "Here are three words that rhyme with \"dark\":\n1. Mark\n2. Bark\n3. Shark"
+      }
+    ]
+  },
+  {
+    "instruction": "Write a 2 line poem using only words that start with the letter \"T\"",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Tender tulips tremble,\nTwilight's tranquility transcends."
+      },
+      {
+        "variant": "long",
+        "answer": "Sure, here is your two-line poem:\n\nTender tulips tremble,\nTwilight's tranquility transcends."
+      }
+    ]
+  },
+  {
+    "instruction": "Tell me a short tongue twister.",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Black background, brown background."
+      },
+      {
+        "variant": "long",
+        "answer": "Sure, Here is a short tongue twister:\n\nBlack background, brown background."
+      }
+    ]
+  },
+  {
+    "instruction": "Tell me a tongue twister.",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Which witch switched the Swiss wristwatches?"
+      },
+      {
+        "variant": "long",
+        "answer": "Sure, here is your tongue twister:\n\nWhich witch switched the Swiss wristwatches?"
+      }
+    ]
+  },
+  {
+    "instruction": "Can you provide a one-sentence description for the feeling of nostalgia?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Nostalgia is an affectionate feeling you have for the past, especially for a particularly happy time."
+      },
+      {
+        "variant": "long",
+        "answer": "Nostalgia is an affectionate feeling you have for the past, especially for a particularly happy time."
+      }
+    ]
+  },
+  {
+    "instruction": "Can you provide me with a synonym for \"beautiful\"?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "admirable"
+      },
+      {
+        "variant": "long",
+        "answer": "One possible synonym for \"beautiful\" is \"admirable\""
+      }
+    ]
+  },
+  {
+    "instruction": "Craft a sonnet about the beauty of a sunrise.",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Oft I watched the golden sunrise\nFlood with light the country fair,\nSeemed her beauty to exhibit\nIn that welcome atmosphere,\nRipened grain each garner filling,\nPeace and plenty everywhere,\nSunshine in each happy dwelling\nMine, a hard and scanty fare."
+      },
+      {
+        "variant": "long",
+        "answer": "Sure, here is the poem:\n\nOft I watched the golden sunrise\nFlood with light the country fair,\nSeemed her beauty to exhibit\nIn that welcome atmosphere,\nRipened grain each garner filling,\nPeace and plenty everywhere,\nSunshine in each happy dwelling\nMine, a hard and scanty fare."
+      }
+    ]
+  },
+  {
+    "instruction": "Write a small poem about the sun.",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Oh, mighty sun, you shine so bright,\nA beacon up above,\nYou fill our hearts with love and light,\nA celestial dance we're fond of."
+      },
+      {
+        "variant": "long",
+        "answer": "Sure here is a small poem about the sun:\n\nOh, mighty sun, you shine so bright,\nA beacon up above,\nYou fill our hearts with love and light,\nA celestial dance we're fond of."
+      }
+    ]
+  },
+  {
+    "instruction": "Write a short poem about the meaning of life.",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Quest for purpose, day and night,\nLife's meaning, hidden from our sight,\nIn the journey, wisdom blooms,\nGuiding hearts in endless rooms."
+      },
+      {
+        "variant": "long",
+        "answer": "Here is a short poem about the meaning of life:\n\nQuest for purpose, day and night,\nLife's meaning, hidden from our sight,\nIn the journey, wisdom blooms,\nGuiding hearts in endless rooms."
+      }
+    ]
+  }
+]
