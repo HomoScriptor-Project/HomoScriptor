@@ -17,4 +17,4 @@ HomoScriptor is a unique and curated collection of human-written datasets design
 
 ## Contributing
 
-We welcome contributions from the community to expand and improve the HomoScriptor dataset. If you would like to contribute, please follow the guidelines outlined in the CONTRIBUTING.md file.
+We welcome contributions from the community to expand and improve the HomoScriptor dataset. If you would like to contribute, please follow the guidelines outlined in the [CONTRIBUTING](https://github.com/fredi-python/HomoScriptor/blob/main/CONTRIBUTING.md) file.
