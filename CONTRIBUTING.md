@@ -31,7 +31,7 @@ When you're ready to submit your contribution, follow these steps:
 
 ## License
 
-By contributing to the HomoScriptor project, you agree that your contributions will be licensed under the [Apache License 2.0 license](https://github.com/your-username/HomoScriptor/blob/main/LICENSE).
+By contributing to the HomoScriptor project, you agree that your contributions will be licensed under the [Apache License 2.0 license](https://github.com/fredi-python/HomoScriptor/blob/main/LICENSE).
 
 ---
 
