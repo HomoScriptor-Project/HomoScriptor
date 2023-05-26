@@ -1,0 +1,197 @@
+[
+  {
+    "instruction": "Which words rhyme with \"boat\"?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "note, wrote, vote, promote, coat, throat, float, goat."
+      },
+      {
+        "variant": "long",
+        "answer": "Here are some words that rhyme with \"boat\":\n- note\n- wrote\n- vote\n- promote\n- coat\n- throat\n- float\n- goat"
+      }
+    ]
+  },
+  {
+    "instruction": "give me three words that rhyme with 'dark'",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "mark, bark, shark"
+      },
+      {
+        "variant": "long",
+        "answer": "Here are three words that rhyme with \"dark\":\n1. Mark\n2. Bark\n3. Shark"
+      }
+    ]
+  },
+  {
+    "instruction": "Write a 2 line poem using only words that start with the letter \"T\"",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Tender tulips tremble,\nTwilight's tranquility transcends."
+      },
+      {
+        "variant": "long",
+        "answer": "Sure, here is your two-line poem:\n\nTender tulips tremble,\nTwilight's tranquility transcends."
+      }
+    ]
+  },
+  {
+    "instruction": "Tell me a short tongue twister.",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Black background, brown background."
+      },
+      {
+        "variant": "long",
+        "answer": "Sure, Here is a short tongue twister:\n\nBlack background, brown background."
+      }
+    ]
+  },
+  {
+    "instruction": "Tell me a tongue twister.",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Which witch switched the Swiss wristwatches?"
+      },
+      {
+        "variant": "long",
+        "answer": "Sure, here is your tongue twister:\n\nWhich witch switched the Swiss wristwatches?"
+      }
+    ]
+  },
+  {
+    "instruction": "Can you provide a one-sentence description for the feeling of nostalgia?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Nostalgia is an affectionate feeling you have for the past, especially for a particularly happy time."
+      },
+      {
+        "variant": "long",
+        "answer": "Nostalgia is an affectionate feeling you have for the past, especially for a particularly happy time."
+      }
+    ]
+  },
+  {
+    "instruction": "Can you provide me with a synonym for \"beautiful\"?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "admirable"
+      },
+      {
+        "variant": "long",
+        "answer": "One possible synonym for \"beautiful\" is \"admirable\""
+      }
+    ]
+  },
+  {
+    "instruction": "Craft a sonnet about the beauty of a sunrise.",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Oft I watched the golden sunrise\nFlood with light the country fair,\nSeemed her beauty to exhibit\nIn that welcome atmosphere,\nRipened grain each garner filling,\nPeace and plenty everywhere,\nSunshine in each happy dwelling\nMine, a hard and scanty fare."
+      },
+      {
+        "variant": "long",
+        "answer": "Sure, here is the poem:\n\nOft I watched the golden sunrise\nFlood with light the country fair,\nSeemed her beauty to exhibit\nIn that welcome atmosphere,\nRipened grain each garner filling,\nPeace and plenty everywhere,\nSunshine in each happy dwelling\nMine, a hard and scanty fare."
+      }
+    ]
+  },
+  {
+    "instruction": "Write a small poem about the sun.",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Oh, mighty sun, you shine so bright,\nA beacon up above,\nYou fill our hearts with love and light,\nA celestial dance we're fond of."
+      },
+      {
+        "variant": "long",
+        "answer": "Sure here is a small poem about the sun:\n\nOh, mighty sun, you shine so bright,\nA beacon up above,\nYou fill our hearts with love and light,\nA celestial dance we're fond of."
+      }
+    ]
+  },
+  {
+    "instruction": "Write a short poem about the meaning of life.",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Quest for purpose, day and night,\nLife's meaning, hidden from our sight,\nIn the journey, wisdom blooms,\nGuiding hearts in endless rooms."
+      },
+      {
+        "variant": "long",
+        "answer": "Here is a short poem about the meaning of life:\n\nQuest for purpose, day and night,\nLife's meaning, hidden from our sight,\nIn the journey, wisdom blooms,\nGuiding hearts in endless rooms."
+      }
+    ]
+  },
+  {
+    "instruction": "Summarize the following paragraph.\n\nA gravity hill, also known as a magnetic hill, mystery hill, mystery spot, gravity road, or anti-gravity hill, is a place where the layout of the surrounding land produces an optical illusion, making a slight downhill slope appear to be an uphill slope. Thus, a car left out of gear will appear to be rolling uphill against gravity. Hundreds of gravity hills are recognized worldwide.\nThe slope of gravity hills is an optical illusion, although sites are often accompanied by claims that magnetic or supernatural forces are at work. The most important factor contributing to the illusion is a completely or mostly obstructed horizon. Without a horizon, it becomes difficult for a person to judge the slope of a surface, as a reliable reference is missing. Objects which one would normally assume to be more or less perpendicular to the ground, such as trees, may be leaning, offsetting the visual reference.\nA 2003 study looked into how the absence of a horizon can skew the perspective on gravity hills, by recreating a number of antigravity places in the lab to see how volunteers would react. As a conclusion, researchers from Universities of Padova and Pavia in Italy found that without a true horizon in sight, the human brain could be tricked by common landmarks such as trees and signs.\nThe illusion is similar to the Ames room, in which objects can also appear to roll against gravity.\nThe opposite phenomenon\u2014an uphill road that appears flat\u2014is known in bicycle racing as a \"false flat\".",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Gravity hills are places where the layout of the surrounding land produces an optical illusion, making a slight downhill slope appear to be an uphill slope."
+      },
+      {
+        "variant": "long",
+        "answer": "Gravity hills are places where the layout of the surrounding land produces an optical illusion, making a slight downhill slope appear to be an uphill slope. The most important factor contributing to the illusion is a completely or mostly obstructed horizon. A 2003 study found that without a true horizon in sight, the human brain could be tricked by common landmarks. The opposite phenomenon is known in bicycle racing as a \"false flat\"."
+      }
+    ]
+  },
+  {
+    "instruction": "summarize.\n\nA rocket garden is a display of missiles, sounding rockets, or space launch vehicles, usually in an outdoor setting. The proper form of the term usually refers to the Rocket Garden at the Kennedy Space Center Visitor Complex.\nAll rockets that have flown so far are at least partially expendable (in some rockets, certain stages or boosters get reused), so rockets in displays have not been flown. As in the case of the Saturn V, later planned missions were cancelled, leaving unneeded rockets for the museums. For displays of early American space hardware, such as Project Mercury and Project Gemini, surplus missiles have been painted to look like crewed space launch vehicles. Engineering test articles (such as the Space Shuttle Pathfinder stack in Huntsville) or purpose-built full-scale replicas are also displayed in rocket gardens.",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Gravity hills are places where the layout of the surrounding land produces an optical illusion, making a slight downhill slope appear to be an uphill slope."
+      },
+      {
+        "variant": "long",
+        "answer": "Gravity hills are places where the layout of the surrounding land produces an optical illusion, making a slight downhill slope appear to be an uphill slope. The most important factor contributing to the illusion is a completely or mostly obstructed horizon. A 2003 study found that without a true horizon in sight, the human brain could be tricked by common landmarks. The opposite phenomenon is known in bicycle racing as a \"false flat\"."
+      }
+    ]
+  },
+  {
+    "instruction": "summarise or summarize?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Summarize is used in US English, while summarise is used in British English."
+      },
+      {
+        "variant": "long",
+        "answer": "Summarize and summarise are both English terms. Summarize is predominantly used in American (US) English ( en-US ) while summarise is predominantly used in British English (used in UK/AU/NZ) ( en-GB )."
+      }
+    ]
+  },
+  {
+    "instruction": "color or colour?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "\"Color\" is the preferred spelling in American English, while \"colour\" is commonly used in British and other English varieties."
+      },
+      {
+        "variant": "long",
+        "answer": "\"Color\" is the preferred spelling in American English, while \"colour\" is commonly used in British English and many other varieties of English around the world, such as Canadian English, Australian English, and New Zealand English."
+      }
+    ]
+  },
+  {
+    "instruction": "What are some examples of words that have different spellings in American English and British English?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "- Theater (US) / Theatre (UK)\n- Center (US) / Centre (UK)\n- Color (US) / Colour (UK)\n- Neighbor (US) / Neighbour (UK)\n- Honor (US) / Honour (UK)\n- Organize (US) / Organise (UK)\n- Traveler (US) / Traveller (UK)\n- Defense (US) / Defence (UK)\n- Program (US) / Programme (UK)\n- Tire (US) / Tyre (UK)"
+      },
+      {
+        "variant": "long",
+        "answer": "Here you go:\n- Theater (US) / Theatre (UK)\n- Center (US) / Centre (UK)\n- Color (US) / Colour (UK)\n- Neighbor (US) / Neighbour (UK)\n- Honor (US) / Honour (UK)\n- Organize (US) / Organise (UK)\n- Traveler (US) / Traveller (UK)\n- Defense (US) / Defence (UK)\n- Program (US) / Programme (UK)\n- Tire (US) / Tyre (UK)"
+      }
+    ]
+  }
+]
