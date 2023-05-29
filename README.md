@@ -1,4 +1,4 @@
-# HomoScriptor: A Human-Written Dataset for Language Model Fine-Tuning
+# HomoScriptor: A Community-driven Human-Written Dataset for Language Model Fine-Tuning
 
 HomoScriptor is a unique and curated collection of human-written datasets designed specifically for fine-tuning large language models (LLMs). This repository contains a diverse range of categories, each represented by individual JSON files, allowing you to explore and train LLMs on various linguistic tasks.
 
