@@ -11,9 +11,9 @@ HomoScriptor is a unique and curated collection of human-written datasets design
 
 ## Getting Started
 
-1. Clone the HomoScriptor repository: `git clone https://github.com/fredi-python/HomoScriptor.git`
-2. Navigate to the desired category's JSON file.
-3. Access the instructions and corresponding outputs for training your LLM.
+
+
+
 
 ## Contributing
 
