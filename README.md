@@ -4,7 +4,7 @@ HomoScriptor is a unique and curated collection of human-written datasets design
 
 ## Features
 
-- **High-Quality Human-Written Data**: HomoScriptor offers meticulously crafted instructions and corresponding outputs, ensuring the dataset's reliability and accuracy.
+
 - **Categorized JSON Files**: The dataset is neatly organized, with each category having its own JSON file, making it easy to navigate and incorporate specific linguistic domains into your LLM training pipeline.
 - **Short and Long Variant Outputs**: Each task in the JSON files includes both short and long variant outputs, providing flexibility based on your specific needs.
 - **Open-Source and Collaborative**: HomoScriptor encourages community collaboration, allowing contributors to add new categories, tasks, and enhance the dataset's overall quality.
