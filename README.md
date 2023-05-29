@@ -9,7 +9,7 @@ HomoScriptor is a unique and curated collection of human-written datasets design
 - **Short and Long Variant Outputs**: Each task in the JSON files includes both short and long variant outputs, providing flexibility based on your specific needs.
 - **Open-Source and Collaborative**: HomoScriptor encourages community collaboration, allowing contributors to add new categories, tasks, and enhance the dataset's overall quality.
 
-## Getting Started
+
 
 
 
