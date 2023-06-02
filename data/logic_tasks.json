@@ -1,0 +1,171 @@
+[
+  {
+    "instruction": "I have no voice, yet I speak to you.\nI tell of all things in the world that people do.I have leaves, but I am not a tree.I have pages, but I am not a bride.I have a spine, but I am not a man.I have hinges, but I am not a door.I have told you all. I cannot tell you more.\n\nWhat am I?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "A book"
+      },
+      {
+        "variant": "long",
+        "answer": "The answer to the riddle is a book.\n\nA book has pages like a bride has on her wedding day, a spine like a human body, and hinges like a door. Despite having no voice, a book speaks to us by telling stories and sharing knowledge about all things in the world that people do. It contains leaves in the form of paper, but it is not a tree. Once you have read a book, it has nothing more to tell you."
+      }
+    ]
+  },
+  {
+    "instruction": "You are a cyclist in a cross-country race. Just before the crossing finish line, you overtake the person in second place. In what place did you finish?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Second Place."
+      },
+      {
+        "variant": "long",
+        "answer": "Second Place. If you pass the person in second, you take second place, and they become third."
+      }
+    ]
+  },
+  {
+    "instruction": "I left my campsite and hiked south for 3 miles. Then I turned east and hiked for 3 miles. I then turned north and hiked for 3 miles, at which time I came upon a bear inside my tent eating my food! What color was the bear?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "White."
+      },
+      {
+        "variant": "long",
+        "answer": "White. The only place you can hike 3 miles south, then east for 3 miles, then north for 3 miles and end up back at your starting point is the North Pole. There are only polar bears in the North Pole, and they are white!"
+      }
+    ]
+  },
+  {
+    "instruction": "A man is looking at a photograph of someone. His friend asks who it is. The man replies, \u201cBrothers and sisters, I have none. But that man\u2019s father is my father\u2019s son.\u201d Who was in the photograph?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "His son."
+      },
+      {
+        "variant": "long",
+        "answer": "The person in the photograph is the man's son.\n\nThe statement \"that man's father is my father's son\" implies that the man's father has a son. Since the man himself is referring to the person in the photograph as his father's son, it means that the man in the photograph is the man's own son. Thus, he is looking at a picture of his own child."
+      }
+    ]
+  },
+  {
+    "instruction": "A man left home running. He ran a ways and then turned left, ran the same distance and turned left again, ran the same distance and turned left again. When he got home, there were two masked men. Who were they?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "The catcher and the umpire."
+      },
+      {
+        "variant": "long",
+        "answer": "The answer to the riddle is that the masked men are the catcher and the umpire in a baseball game. The man's run followed the path of a baseball diamond, and the masked men are part of the game."
+      }
+    ]
+  },
+  {
+    "instruction": "Your dad tells you that he will pay you $6.00 an hour for the 6 seconds that you take to wash your hands before dinner.\nHow much did you make for washing your hands?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "1 cent."
+      },
+      {
+        "variant": "long",
+        "answer": "You washed your hands for 6 seconds.\nThere are 3600 seconds in an hour (60 seconds/minute * 60 minutes/hour).\n\nTo find out how much of an hour those 6 seconds represent:\n6 seconds / 3600 seconds/hour = 1/600 of an hour\n\nYour dad will pay you $6.00 per hour, so to find out how much you made for washing your hands:\n$6.00/hour * 1/600 hour = $6.00/600 = $0.01\n\nSo, you made one cent ($0.01) for washing your hands."
+      }
+    ]
+  },
+  {
+    "instruction": "There is a fishing trawler, with a ladder in it, leaning against a wall at the harbor. There are five oars and two fishing nets in the trawler. The distance between two consecutive steps on the ladder is 1 meter. If waves lashing against the wall rise half meter in every half hour, in how much time will six steps of the ladder get under the waves?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "None."
+      },
+      {
+        "variant": "long",
+        "answer": "Since the trawler rises with the waves, none of the steps will go under the water."
+      }
+    ]
+  },
+  {
+    "instruction": "Your parents have six sons including you and each son has one sister. How many people are in the family?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Nine."
+      },
+      {
+        "variant": "long",
+        "answer": "Nine. Two parents, six sons, and one daughter. All of them have one sister (not six sisters)."
+      }
+    ]
+  },
+  {
+    "instruction": "What 5-letter word becomes shorter when you add two letters to it?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Short."
+      },
+      {
+        "variant": "long",
+        "answer": "The word is \"short.\" When you add the letters \"er\" to it, it becomes \"shorter,\" which is actually a longer word."
+      }
+    ]
+  },
+  {
+    "instruction": "What letter comes next in the following sequence? D R M F S L T_",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "\"D\"."
+      },
+      {
+        "variant": "long",
+        "answer": "\"D\", as each letter represents one note in the diatonic musical scale: Do, Re, Mi, Fa, Sol, La, Ti, Do"
+      }
+    ]
+  },
+  {
+    "instruction": "You are in a place called Jack\u2019s World and there is only one law. There is a mirror, but no reflection. There is pizza with cheese, but not sausage. There is pepper, but no salt. There is a door, yet no entrance or exit. What is the law?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Jack's World requires all words to contain double letters."
+      },
+      {
+        "variant": "long",
+        "answer": "Everything (each word) in Jack\u2019s World must contain double letters."
+      }
+    ]
+  },
+  {
+    "instruction": "What makes more as you take them?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Footsteps"
+      },
+      {
+        "variant": "long",
+        "answer": "The answer is: Footsteps"
+      }
+    ]
+  },
+  {
+    "instruction": "Paul is talking with Rachel while driving. He then crashes but Rachel did not get hurt. When the car crashed all the glass broke and the front and back seats got hit. How come Rachel did not get hurt?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Paul was talking with Rachel on the phone."
+      },
+      {
+        "variant": "long",
+        "answer": "Rachel was not physically present in the car at the time of the crash; she was only talking with Paul on the phone."
+      }
+    ]
+  }
+]
