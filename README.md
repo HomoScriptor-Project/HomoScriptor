@@ -1,5 +1,8 @@
 # HomoScriptor: A Community-driven Human-Written Dataset for Language Model Fine-Tuning
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/HomoScriptor-Project/HomoScriptor" data-icon="octicon-star" data-show-count="true" aria-label="Star HomoScriptor-Project/HomoScriptor on GitHub">Star</a><a class="github-button" href="https://github.com/HomoScriptor-Project/HomoScriptor/discussions" data-color-scheme="no-preference: light_high_contrast; light: light_high_contrast; dark: light;" data-icon="octicon-comment-discussion" aria-label="Discuss HomoScriptor-Project/HomoScriptor on GitHub">Discuss</a>
+
 ### *Together, let's create a remarkable dataset that fuels innovation and drives the progress of language models!*
 
 HomoScriptor is a vibrant and collaborative project that thrives on [community contributions](CONTRIBUTING.md). <br> It serves as a curated collection of human-written datasets specifically designed for fine-tuning large language models (LLMs). With its diverse range of categories and organized JSON files
