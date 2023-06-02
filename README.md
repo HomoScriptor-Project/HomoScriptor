@@ -1,6 +1,6 @@
 # HomoScriptor: A Community-driven Human-Written Dataset for Language Model Fine-Tuning
 
-*Together, let's create a remarkable dataset that fuels innovation and drives the progress of language models!*
+### *Together, let's create a remarkable dataset that fuels innovation and drives the progress of language models!*
 
 HomoScriptor is a vibrant and collaborative project that thrives on [community contributions](CONTRIBUTING.md). <br> It serves as a curated collection of human-written datasets specifically designed for fine-tuning large language models (LLMs). With its diverse range of categories and organized JSON files
 ## Key Features
