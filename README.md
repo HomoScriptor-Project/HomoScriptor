@@ -22,4 +22,4 @@ If you are interested in contributing, please refer to the guidelines outlined i
 
 Together, let's create a remarkable dataset that fuels innovation and drives the progress of language models!
 
-[🔼 Back to top](#Homoscriptor)
+[🔼 Back to top](#HomoScriptor: A Community-driven Human-Written Dataset for Language Model Fine-Tuning)
