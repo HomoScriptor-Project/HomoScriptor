@@ -21,3 +21,5 @@ We firmly believe that the strength of HomoScriptor lies in its community of con
 If you are interested in contributing, please refer to the guidelines outlined in the [Contribute file](CONTRIBUTING.md). We look forward to your valuable contributions and appreciate your dedication to advancing the field of language modeling.
 
 Together, let's create a remarkable dataset that fuels innovation and drives the progress of language models!
+
+[🔼 Back to top](#Homoscriptor)
