@@ -1,0 +1,41 @@
+[
+  {
+    "instruction": "What is the goal of cancer treatment?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "eradication or palliation."
+      },
+      {
+        "variant": "long",
+        "answer": "The goal of cancer treatment is first to eradicate the cancer. If this primary goal cannot be accomplished, the goal of cancer treatment shifts to palliation, the amelioration of symptoms, and preservation of quality of life while striving to extend life."
+      }
+    ]
+  },
+  {
+    "instruction": "What is the role of surgery in cancer treatment?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "excision."
+      },
+      {
+        "variant": "long",
+        "answer": "Cancer surgery aiming for cure is usually planned to excise the tumor completely with an adequate margin of normal tissue, touching the tumor as little as possible to prevent vascular and lymphatic spread, and minimizing operative risk. Such a resection is defined as an R0 resection."
+      }
+    ]
+  },
+  {
+    "instruction": "How is aciclovir metabolized?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "renal excretion."
+      },
+      {
+        "variant": "long",
+        "answer": "Most of the drug is excreted unchanged by the kidney. Renal clearance of aciclovir is substantially greater than creatinine clearance, indicating that tubular secretion, in addition to glomerular filtration, contributes to the renal elimination of the drug."
+      }
+    ]
+  }
+]
