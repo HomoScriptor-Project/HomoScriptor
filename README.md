@@ -8,6 +8,17 @@
 ### *Together, let's create a remarkable dataset that fuels innovation and drives the progress of language models!*
 
 HomoScriptor is a vibrant and collaborative project that thrives on [community contributions](CONTRIBUTING.md). <br> It serves as a curated collection of human-written datasets specifically designed for fine-tuning large language models (LLMs). With its diverse range of categories and organized JSON files
+
+## File Structure
+
+- [CONTRIBUTING.md](CONTRIBUTING.md) - Guidelines for contributing to the dataset.
+- [data/](data/)
+  - [language_tasks.json](data/language_tasks.json) - JSON file of language tasks including rhyming, poetry, tongue twisters, summarising, and some of the differences between UK and US spelling.
+  - [logic_tasks.json](data/logic_tasks.json) - JSON file containing logic-related tasks, including puzzles, riddles and brainteasers
+- [LICENSE](LICENSE) - License information for the dataset.
+- [README.md](README.md) - Contains information about the dataset.
+
+
 ## Key Features
 
 -    Categorized JSON Files: Our dataset is thoughtfully organized, with each category having its own JSON file. This structured approach makes it effortless to explore specific linguistic domains and seamlessly incorporate them into your LLM training pipeline.
@@ -15,6 +26,9 @@ HomoScriptor is a vibrant and collaborative project that thrives on [community c
 -    Short and Long Variant Outputs: Every task in the JSON files includes both short and long variant outputs. This versatility allows you to tailor the dataset to your specific needs, accommodating a wide range of applications and use cases.
 
 -    Open-Source and Collaborative: HomoScriptor embraces the power of community collaboration. We actively encourage and welcome contributors to join our project and contribute to its growth. Your input and expertise can help enhance the dataset's overall quality and ensure its relevance to the broader language model research community.
+
+
+
 
 ## Contributing
 
