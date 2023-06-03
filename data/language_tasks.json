@@ -193,5 +193,57 @@
         "answer": "Here you go:\n- Theater (US) / Theatre (UK)\n- Center (US) / Centre (UK)\n- Color (US) / Colour (UK)\n- Neighbor (US) / Neighbour (UK)\n- Honor (US) / Honour (UK)\n- Organize (US) / Organise (UK)\n- Traveler (US) / Traveller (UK)\n- Defense (US) / Defence (UK)\n- Program (US) / Programme (UK)\n- Tire (US) / Tyre (UK)"
       }
     ]
+  },
+  {
+    "instruction": "What rhymes with \"school\"?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "rule, tool, fuel, cool, pool, fool, cruel"
+      },
+      {
+        "variant": "long",
+        "answer": "Here are some words that rhyme with \"school\":\n- rule\n- tool\n- fuel\n- cool\n- pool\n- fool\n- cruel"
+      }
+    ]
+  },
+  {
+    "instruction": "Tell me 3 words that rhyme with \"incredible\".",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "edible, credible, unforgettable"
+      },
+      {
+        "variant": "long",
+        "answer": "Here you go!\n- edible\n- credible\n- unforgettable"
+      }
+    ]
+  },
+  {
+    "instruction": "5 words that rhyme with \"same\"",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "name, came, flame, fame, lame"
+      },
+      {
+        "variant": "long",
+        "answer": "Here are 5 words that rhyme with \"same\":\n- name\n- came\n- flame\n- fame\n- lame"
+      }
+    ]
+  },
+  {
+    "instruction": "one word that rhymes with \"rich\"",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "switch"
+      },
+      {
+        "variant": "long",
+        "answer": "switch"
+      }
+    ]
   }
 ]
