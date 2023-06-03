@@ -27,8 +27,8 @@ Together, let's create a remarkable dataset that fuels innovation and drives the
 
 
 [stars-shield]: https://img.shields.io/github/stars/HomoScriptor-Project/HomoScriptor.svg?style=for-the-badge
-[stars-url]: https://github.com/HomoScriptor/HomoScriptor/stargazers
+[stars-url]: https://github.com/HomoScriptor-Project/HomoScriptor/stargazers
 [forks-shield]: https://img.shields.io/github/forks/HomoScriptor-Project/HomoScriptor.svg?style=for-the-badge
-[forks-url]: https://github.com/HomoScriptor/HomoScriptor/network/members
+[forks-url]: https://github.com/HomoScriptor-Project/HomoScriptor/network/members
 [discuss-shield]: https://img.shields.io/github/discussions/HomoScriptor-Project/HomoScriptor.svg?style=for-the-badge
 [discuss-url]: https://github.com/HomoScriptor-Project/HomoScriptor/discussions
