@@ -245,5 +245,71 @@
         "answer": "switch"
       }
     ]
+  },
+  {
+    "instruction": "Summarize the text below:\n\nKen woke up. It was his holiday, finally! He would do so many things.\n\nKen didn\u2019t know what to do, so he went and watched TV. But he didn\u2019t just watch TV for ten minutes. He watched TV for three hours.\n\nThen, Ken noticed that his eyes hurt.\n\n\u2018Ow!\u2019 said Ken. \u2018My eyes hurt!\u2019\n\nSo Ken stopped watching TV and read a book. But he didn\u2019t just read ten pages. He read the book for five hours.\n\nThen, Ken noticed that his eyes still hurt.\n\n\u2018Ow!\u2019 said Ken. \u2018My eyes still hurt! Hmm, maybe I need to go outside. If I go outside, maybe my eyes won\u2019t hurt.\u2019\n\nSo Ken went to the cinema and watched a film. But he didn\u2019t just watch one film. He watched three films, and he was at the cinema for seven hours!\n\nAfterwards, Ken came outside and noticed that his eyes still hurt.\n\n\u2018Ow!\u2019 said Ken. \u2018How do my eyes still hurt? I don\u2019t understand!\u2019\n\nBy now, it was late and Ken was tired. So he went home and went to bed. But Ken didn\u2019t just sleep for eight hours, he slept for twenty hours.\n\nWhen Ken woke up, he noticed that his eyes didn\u2019t hurt.\n\n\u2018Hurray!\u2019 said Ken. \u2018My eyes don\u2019t hurt!\u2019\n\nBut then Ken stood up and noticed that his back hurt.\n\n\u2018Ow!\u2019 said Ken. \u2018Why does my back hurt? Oh, well. I\u2019ll go watch TV.\u2019",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Ken spent his holiday watching TV for three hours, but noticed his eyes hurting. He stopped watching TV and read a book for five hours. After watching three films, Ken went to the cinema for seven hours. He then went home and slept for twenty hours. When he woke up, his eyes didn't hurt, but his back hurt. Ken decided to watch TV instead."
+      },
+      {
+        "variant": "long",
+        "answer": "Here you go:\nKen spent his holiday watching TV for three hours, but noticed his eyes hurting. He stopped watching TV and read a book for five hours. After watching three films, Ken went to the cinema for seven hours. He then went home and slept for twenty hours. When he woke up, his eyes didn't hurt, but his back hurt. Ken decided to watch TV instead."
+      }
+    ]
+  },
+  {
+    "instruction": "Summarize this text:\n\nIn the dimly lit alley, a shattered window revealed the scene of a meticulously planned heist. The safe stood empty, its contents vanished without a trace. Detective Parker arrived, his sharp eyes scanning for clues, determined to catch the cunning thief. A single fingerprint, left behind on a discarded glove, whispered of the perpetrator's identity. As the city held its breath, Parker vowed to bring justice to the shadowy figure who had eluded capture for far too long.",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Detective Parker investigates a planned heist in a dim alley, where a safe vanished without a trace. With a single fingerprint on a glove, he aims to catch the thief who had evaded capture for too long."
+      },
+      {
+        "variant": "long",
+        "answer": "Here is your summary:\nDetective Parker investigates a planned heist in a dim alley, where a safe vanished without a trace. With a single fingerprint on a glove, he aims to catch the thief who had evaded capture for too long."
+      }
+    ]
+  },
+  {
+    "instruction": "Is the word \"rotator\" a palindrome?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Yes, the word \"rotator\" is a palindrome."
+      },
+      {
+        "variant": "long",
+        "answer": "Yes, the word \"rotator\" is indeed a palindrome. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward. In the case of \"rotator,\" if you reverse the order of its letters, it still spells \"rotator.\""
+      }
+    ]
+  },
+  {
+    "instruction": "what is a palindrome?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "a word, phrase, number, or other sequence of characters that reads the same forward and backward."
+      },
+      {
+        "variant": "long",
+        "answer": "A palindrome is a sequence of characters that reads the same forward and backward. Spaces, punctuation, and capitalization are usually ignored. In simpler terms, it stays the same when reversed."
+      }
+    ]
+  },
+  {
+    "instruction": "Is \"racecar\" a palindrome?",
+    "output": [
+      {
+        "variant": "short",
+        "answer": "Yes, it is a palindrome."
+      },
+      {
+        "variant": "long",
+        "answer": "Yes, the word \"racecar\" is indeed a palindrome. A word, phrase, number, or other character sequence that reads both forward and backward is referred to as a palindrome."
+      }
+    ]
   }
+]
 ]
