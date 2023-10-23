@@ -19,7 +19,8 @@ HomoScriptor is a vibrant and collaborative project that thrives on [community c
 - [CONTRIBUTING.md](CONTRIBUTING.md) - Guidelines for contributing to the dataset.
 - [data/](data/)
   - [language_tasks.json](data/language_tasks.json) - JSON file of language tasks including rhyming, poetry, tongue twisters, summarising, and some of the differences between UK and US spelling.
-  - [logic_tasks.json](data/logic_tasks.json) - JSON file containing logic-related tasks, including puzzles, riddles and brainteasers
+  - [logic_tasks.json](data/logic_tasks.json) - JSON file containing logic-related tasks, including puzzles, riddles and brainteasers.
+  - [medicine_tasks.json](data/medicine_tasks.json) - JSON file containing medicine related questions, differentials, care plan and knowledge.
 - [LICENSE](LICENSE) - License information for the dataset.
 - [README.md](README.md) - Contains information about the dataset.
 
